@@ -9,6 +9,7 @@
 - HTML Template Engine: [Pug](https://pugjs.org/api/getting-started.html)
 - CSS Preprocessor: [Stylus](http://stylus-lang.com)
 
+
 ## Folders Structures
 
 	      .
@@ -45,7 +46,8 @@ To keep better organization of releases we follow the [Semantic Versioning 2.0.0
 
 ## Contributing
 Find on our [roadmap](https://github.com/gustavom/csshortcut-app/issues/1) the next steps of the project ;)
-<br>
+
+
 Want to contribute? [Follow these recommendations](https://github.com/gustavom/csshortcut-app/CONTRIBUTING.md).
 
 ## License
