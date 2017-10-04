@@ -1,7 +1,43 @@
 # CSShortcup APP
 
 
-> Projeto descolado <3
+> App para o curso CSShortcut.
+
+## Stack
+
+- Task Runner: [Gulp](http://gulpjs.com)
+- HTML Template Engine: [Pug](https://pugjs.org/api/getting-started.html)
+- CSS Preprocessor: [Stylus](http://stylus-lang.com)
+
+## Folders Structure
+
+	      .
+	      ├── README.md
+	      ├── LICENSE.md
+	      ├── CONTRIBUTING.md
+	      ├── out/
+	      ├── src/
+	      |   ├── icons/
+	      |   ├── assets/
+	      |   |   ├── img/
+	      |   |   ├── scripts/
+	      |   |   |   └── script.js
+	      |   |   └── styles/
+	      |   |       ├── modules/
+	      |   |       └── style.styl
+	      |   ├── partials/
+	      |   |   ├── footer.pug
+	      |   |   └── header.pug
+	      |   ├── layouts/
+	      |   |   └── default.pug
+	      |   ├── projects.pug
+	      |   └── index.pug
+	      ├── gulpfile.js
+	      ├── package.json
+	      ├── projects.json
+	      ├── .editorconfig
+	      └── .gitignore
+
 
 ## Versioning
 
