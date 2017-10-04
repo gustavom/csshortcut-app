@@ -9,7 +9,7 @@
 - HTML Template Engine: [Pug](https://pugjs.org/api/getting-started.html)
 - CSS Preprocessor: [Stylus](http://stylus-lang.com)
 
-## Folders Structure
+## Folders Structures
 
 	      .
 	      ├── README.md
